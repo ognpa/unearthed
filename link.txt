@@ -1,0 +1,6 @@
+We have tried to model what is the tonnage per hour as we dig deeper
+
+Findings
+From our model we find that some trucks are more used then others
+Velocity of the truck is an important feature
+Distance traversed is an important feature
